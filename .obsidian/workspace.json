@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "9cfd0230111c1a1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7e2dc18b32506b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce70e8c21a729a7a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6e0992e1c969567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebdeb3b00af50959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学建模.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26400d231577e094",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4dd1d3f9a7f6865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de1a3dbe1ed08d51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "353d5e26106ea77a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#力学时",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b400a408215630c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "031d2bb425acd623",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dc149daeb935da3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f448200ffe3491dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数学建模.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e12e8188bb39c8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数学建模.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4609f4b942f7c51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c668750102e47b63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数学建模.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:发布更改": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ebdeb3b00af50959",
+  "lastOpenFiles": [
+    "PDDL/domain.md",
+    "PDDL",
+    "03-测绘学/00-地图制图学/08-专题地图制图.md",
+    "Untitled.md",
+    "数学建模.md",
+    "计算机/05-软件工程/网页设计.md",
+    "计算机/04-数据结构与算法/算法.md",
+    "计算机/04-数据结构与算法/TSP问题.md",
+    "计算机/04-数据结构与算法/树状数组.md",
+    "计算机/04-数据结构与算法/粒子群.md",
+    "计算机/01-计算机基础/计算机科学导论.md",
+    "08-数学建模/02-图与网络.md",
+    "地理空间信息服务0619.md",
+    "MapGPT.md",
+    "2024-05-13-19-20-49translated_and_original.md",
+    "240628.md",
+    "Service Connector Container.md",
+    "01-项目/240928新生班会发言稿.md",
+    "03-测绘学/课程笔记/欢迎.md",
+    "03-测绘学/课程笔记",
+    "03-测绘学/04-摄影测量学.md",
+    "03-测绘学/开普勒定律.md",
+    "03-测绘学/05-GNSS原理与应用/02-卫星运动的基础知识.md",
+    "03-测绘学/05-GNSS原理与应用/01-坐标系统与时间系统.md",
+    "03-测绘学/04-摄影测量学/02-摄影测量基础知识.md",
+    "03-测绘学/04-摄影测量学/09-像片纠正与正射影像图.md",
+    "03-测绘学/04-摄影测量学/04-摄影测量解析基础.md",
+    "03-测绘学/04-摄影测量学/03-双相立体测图原理与立体测图.md",
+    "Pasted image 20240913100244.png",
+    "06-英语/法律英语阅读与翻译",
+    "测绘学/00-地图制图学",
+    "数学/统计学",
+    "未命名",
+    "06-英语/未命名",
+    "逻辑/命题逻辑",
+    "图尔明模型.canvas",
+    "逻辑",
+    "未命名.canvas",
+    "政治/习近平新时代中国特色社会主义思想概论",
+    "01-课程/05-大三上.canvas",
+    "地理信息工程/02-地理空间信息服务/地理空间信息服务.canvas",
+    "01-课程/05-大三上/未命名.canvas",
+    "计算机/06-数据库管理/数据库连接.canvas",
+    "Untitled.canvas",
+    "asset/img/Psychologybranches.png",
+    "Untitled 1.canvas"
+  ]
+}
