@@ -6,4 +6,4 @@ A `documentary film` about her journey, released in 2022, was called "Of Medicin
 
 - `documentary film`: 纪录片
 
-Researchers do not use the second of those m-words `lightly`. But CAR-T therapy seems to justify the `excitement`
+Researchers do not use the second of those m-words `lightly`. But CAR-T therapy seems to `justify` the excitement
