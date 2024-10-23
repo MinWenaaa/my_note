@@ -24,3 +24,6 @@ Nowadays **they** often read news and articles on their smartphones **instead of
 
 **大量移动应用程序的开发**/使/**人们**/能/用手机/阅读/小说或其他形式的文学作品/。
 **The development of** a large number of mobile apps **enables people to** read novels and other forms of literary works through smartphones.
+
+Credit cards are an **intergral part of** the U.S. fnancial system.
+信用卡是美国完整金融体系中必不可少的一部分。
