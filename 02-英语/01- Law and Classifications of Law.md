@@ -31,12 +31,16 @@ Law raises important and complex issues concerning equality, fairness and justic
 法提出了诸多与平等、公平和正义相关的重要且复杂的议题。
 
 "In its majestic equality," said the author Anatole France in 1894, "the law forbbids the rich and the poor alick to sleep under bridges, beg in the streets and steal loaves of bread."
+法国作家阿纳托尔·法郎士1894年曾说，“法律神圣平等，一视同仁，禁止夫人也禁止穷人在大桥下睡觉、在大街上乞讨或偷几条面包。”
 
-In a typical democracy, the central institutions for interpreting an creating law are the three main branches of government, namely an impartial judiciary, a democratic legislature, and aan accountable executive.
+In a typical democracy, the central institutions for interpreting an creating law are the three main branches of government, namely an impartial judiciary, a democratic legislature, and an accountable executive.
+在一个典型的民主国家中，解释和制定法律的中央机构是政府的三个主要部门，即公正的司法部门、民主的立法部门和负责任的行政部门。
 
 To implement and enforce the law and provide services to the public, a government's bureaucracy, the military and police are vital.
+政府机构、军队和警察在贯彻和执行法律以及向公众提供服务的过程中扮演着重要的角色。
 
-While all this organs of the state are creatures created and bound by law, and independent legal profession and a vibrant cicil society will support their progress.
+While all this organs of the state are creatures created and bound by law, an independent legal profession and a vibrant cicil society will support their progress.
+虽然上述国家机构均依法创设并受法律约束，但独立的法律职业群体与活跃的市民社会亦促进上述机构的进步。
 
 ## Classifications of Law
 There are several different ways in which laws can be classified, depending on the criteria or characteristic
@@ -49,39 +53,52 @@ Substantive law explains what you can and cannot do.
 实体法规定何为可为之事，何为不可为之事。
 
 For example, the law states that you cannot murdur another human being unless it was in self defense, you were under duress, or if you were drugged by another person.
+例如规定不得谋害性命（除非处于自卫、受到胁迫或处于醉态）的法律即属实体法。
 
 Unlike substantive law, procedural laws are just the steps that must take place when filing a lawsuit against anothor party.
+与实体法不同，程序法的内容是指一方提起诉讼时应当遵循的步骤。
 
 ### b. Public Law vs. Private Law
 公法与私法
 
 Law can be divided into two main branches: (1) public law and(2) private law. 
+法可划分为两大部门：公法和私法。
 
 Public law is the body of law dealing with the relations between private individuals and the government, and with the structue and operation of the government itself, including consitutional law, criminal law, and administrative law.
+公法是调整个人与政府间关系的法律，同时还规定政府自身框架及其运作，公法包括宪法、刑法和行政法。
 
 Private law is the body of law dealing with private persons and their property and relationships.
+私法是调整私人、私人财产以及私人之间关系的法律。
 
 ### c. Criminal Law vs. Civil Law
 刑法和民法
 
 Criminal law or penal law defines breaches of duty to society at large.
+刑法规制的是危害整个社会的行为（违反对社会承担的义务）。
 
 It is society, through government employees called prosecutors(such as district attorneys), that brings court action against violators. 
+社会通过称作“检察官”（如“地区检察官”）的政府官员，对违法者提起诉讼。
 
 If you are found guilty of a crime such as theft, you will be punished by imprisonment or a fine.
+行为人被判为有罪（如盗窃罪）的，可以被处以监禁刑或罚金刑。
 
 Civil law, as opposed to criminal law, is the branch of law dealing with disputes between individuals or organizations, in which compensation may be awarded to the victims.
+与刑法不同，民法调整的是个人间、法人间或个人与法人间的争议，通常受害者会判得赔偿金。
 
 For instance, if a car crash victim claims damages against the driver for loss or injury sustained in an accident, this will be a civil law case.
+例如，车祸中的受害人如向司机主张事故损失或伤害赔偿金的，就是一则民事案件。
 
 ### Common Law vs. Civil Law
 普通法和大陆法
 
 Common law is law developed by judges through decisions of courts and similar tribunals rather than through legislative statutes or executive branch action.
+普通法是由法官通过法院（即类似裁判机构）的判决发展起来，而非通过立法机关制定的制定法，或者行政机构的决定发展起来。
 
 Common law countries prosecute with the concept of "stare decisis", which means that these countries such as the United States of Amarica make decisions based on presedents.
+普通法国家实行“遵循先例”的原则，也就是说，美国等普通法国家是基于先例做出裁决的。
 
 Because each judicial opinion serves as a precedent for later decisions, as a result, common law id sometimes called *judge-made law*.
+因为每一司法一键
 
 Anglo-American law is rooted in the tradition of the common law.
 
