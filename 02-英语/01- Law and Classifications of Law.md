@@ -39,7 +39,7 @@ In a typical democracy, the central institutions for interpreting an creating la
 To implement and enforce the law and provide services to the public, a government's bureaucracy, the military and police are vital.
 政府机构、军队和警察在贯彻和执行法律以及向公众提供服务的过程中扮演着重要的角色。
 
-While all this organs of the state are creatures created and bound by law, an independent legal profession and a vibrant cicil society will support their progress.
+While all this organs of the state are creatures created and bound by law, an independent legal profession and a vibrant civil society will support their progress.
 虽然上述国家机构均依法创设并受法律约束，但独立的法律职业群体与活跃的市民社会亦促进上述机构的进步。
 
 ## Classifications of Law
@@ -110,7 +110,31 @@ Unlike common law, the principle of civil law is to provide all citizens with an
 
 # Lesson 2 Legal Systems: Common Law and Civil Law
 
+Every independent country hat its own legal system.
+
+The systems vary according to each country's social traditions and form of goverment.
+
+But most systems can be classed as either a common-law system or a civil-law system.
+
+Many countries combine features of both systems.
+
+A general distinction can be made between civil law jurisdictions, which codify their laws, and common law systems, where judge made law is not consolidated.
+
 ## 1. Common-law System
+
+The common-law system is used in all the states of the United States expect Louisana, where French Civil Law combined with English Criminal Law to form a hybrid system.
+
+Common-law courts base thei decisions on prior judicial pronouncements rather than on legislative enactments.
+
+Common-law judges rely on their predecessors' decisions of actual controversies, rather than on abstract codes or texts, to guide them in applying the law.
+
+Conmmon-law judges find the grounds for their decisions in law reports, which contain decisions of past controversies.
+
+Under the doctrine of *stare decisis*, common-law judges are obliged to adhere to previously decided cases, or precedents, where the facts are substantially the same.
+
+A court's decision id binding authority for similar cases going to be decided by the same court or by lower courts within the same jurisdiction.
+
+The decision is not binding on courts of higher rank within that jurisdiction or courts in other jurisdictions, but it may be considered as persuasive authority.
 
 Under a common-law system, disputes are settled through an adversarial exchanged of arguments and evidence.
 
