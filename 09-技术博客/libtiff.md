@@ -5,4 +5,10 @@
 vcpkg install tif
 ```
 
+然后引用头文件就可以使用了！
+
+```
+#include<tiffio.h>
+```
+
 # 学习笔记
